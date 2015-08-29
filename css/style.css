@@ -1,0 +1,25 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+nav {
+  height: 100px;
+  background-image: url('../imgs/rio2016_cropped.png');
+  background-size: cover;
+  background-position: right bottom;
+}
+section {
+  border-bottom: 1px solid #ef6c00;
+}
+.last {
+  border-bottom: none;
+}
+.justify {
+  text-align: justify;
+}
+h2 {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+}
